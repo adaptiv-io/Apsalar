@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   }
   s.author         = 'Apsalar Inc.'
   s.source         = {
-    :git => "https://github.com/adaptiv-io/Apsalar.git"
+    :git => "https://github.com/adaptiv-io/Apsalar.git",
     :tag => s.version.to_s
   }
   s.platform       = :ios, '8.0'
