@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name           = "apsalar"
+  s.name           = "Apsalar"
   s.version        = "6.0.6"
   s.summary        = "Apsalar for iOS SDK."
   s.description    = "Apsalar for iOS SDK."
