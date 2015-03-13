@@ -26,7 +26,7 @@
 + (NSDate *) sessionStartDate;
 + (NSString *) sessionID;
 + (NSString *) version;
-+ (NSString *)apsalarID;
++ (NSString *) apsalarID;
 + (NSString *)apsalarKeyspace;
 + (void) setBufferLimit:(int)size;
 @property(nonatomic, readonly) NSString *applicationName;
